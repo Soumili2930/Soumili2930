@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Soumili2930
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Soumili2930/Soumili2930 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+batch_id	batch_name	department_name	list_of_courses	list_of_students
+CSE22	CSE 2022-26	CSE	C001:C002	CSE2201
+CSE21	CSE 2021-25	CSE	C001:C002	CSE2101
+ECE22	ECE 2022-26	ECE	C002	ECE2201:ECE2202
